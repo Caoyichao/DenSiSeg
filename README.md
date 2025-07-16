@@ -52,6 +52,7 @@ If you find **DenSiSeg** useful for your research, please consider citing our pa
   author    = {Yichao Cao, Feng Yang, Xuanpeng Li, Xiaolin Meng, and Xiaobo Lu},
   year      = {2025}
 }
+```
 
 ## 🙏 Acknowledgements
 
@@ -61,5 +62,5 @@ We sincerely thank the authors of the following datasets for their valuable cont
 - **[SMOKE5K](https://github.com/SiyuanYan1/Transmission-BVM)**: A real-world smoke image dataset that provides diverse and challenging scenarios for qualitative analysis.
 - **[Rekon](https://github.com/rekon/Smoke-semantic-segmentation)**: A real-scene smoke video dataset used for robustness validation in complex practical environments.
 
-These resources were instrumental in the development, training, and validation of **DenSiSeg**. We gratefully acknowledge their contributions to the community.
+We gratefully acknowledge their contributions to the community.
 
