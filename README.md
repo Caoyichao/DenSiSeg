@@ -1,4 +1,4 @@
-# DenSiSeg: Density-Aware Progressive Smoke Segmentation
+# Refining the Granularity of Smoke Representation: SAM-Powered Density-Aware Progressive Smoke Segmentation Framework
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
