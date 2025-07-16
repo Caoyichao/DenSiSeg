@@ -41,3 +41,14 @@ Below is a representative visualization of **DenSiSeg** on challenging smoke sce
 </p>
 
 *Results on SYN70K dataset. (a) Inputs. (b) Segmentation results of baseline model. (c) Output of our DenSiSeg. (d) Ground truth of smoke density.*
+
+## 📖 Citation
+
+If you find **DenSiSeg** useful for your research, please consider citing our paper:
+
+```bibtex
+@article{cao2025densiseg,
+  title     = {Refining the Granularity of Smoke Representation: SAM-Powered Density-Aware Progressive Smoke Segmentation Framework},
+  author    = {Yichao Cao, Feng Yang, Xuanpeng Li, Xiaolin Meng, and Xiaobo Lu},
+  year      = {2025}
+}
