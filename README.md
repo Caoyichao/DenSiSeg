@@ -40,4 +40,4 @@ Below is a representative visualization of **DenSiSeg** on challenging smoke sce
   <img src="imgs/results.png" width="700"/>
 </p>
 
-*For best view, open the image in full resolution.*
+*Results on SYN70K dataset. (a) Inputs. (b) Segmentation results of baseline model. (c) Output of our DenSiSeg. (d) Ground truth of smoke density.*
