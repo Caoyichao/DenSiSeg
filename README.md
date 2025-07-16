@@ -16,20 +16,6 @@ This repository contains the official PyTorch implementation of **DenSiSeg**, a 
 
 ---
 
-## 📦 Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/DenSiSeg.git
-cd DenSiSeg
-
-# Create environment (optional but recommended)
-conda create -n densiseg python=3.8
-conda activate densiseg
-
-# Install dependencies
-pip install -r requirements.txt
-
 ```
 
 ## 🎯 Qualitative Results
