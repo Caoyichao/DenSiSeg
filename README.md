@@ -30,11 +30,3 @@ conda activate densiseg
 # Install dependencies
 pip install -r requirements.txt
 
----
-
-@article{cao2025densiseg,
-  title     = {DenSiSeg: Density-Aware Progressive Smoke Segmentation},
-  author    = {Cao, Yichao and others},
-  journal   = {Pattern Recognition},
-  year      = {2025},
-}
