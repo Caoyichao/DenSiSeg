@@ -6,12 +6,6 @@
 
 This repository contains the official PyTorch implementation of **DenSiSeg**, a novel smoke segmentation framework that explicitly models smoke density variations via a progressive optimization scheme and background-guided representation learning.
 
-📄 **Paper:** _[Title]_  
-✒️ **Authors:** [Your Name], et al.  
-📚 **To appear in:** *Pattern Recognition, 2025*  
-🔗 **PDF:** [Link to the paper]  
-📬 **Contact:** [your-email@example.com]
-
 ---
 
 ## 🔥 Highlights
