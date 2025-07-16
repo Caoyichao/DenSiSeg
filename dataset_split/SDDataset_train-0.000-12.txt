@@ -1,0 +1,12 @@
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/2_7666.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/8_3124.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/3_1747.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/2_224.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/8_7732.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/2_3882.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/1_2112.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/8_3416.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/1_5942.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/5_1429.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/2_5008.jpg
+E:/python/Data/SDdataset/DSS_training_data/training_data/blendall/5_6641.jpg
