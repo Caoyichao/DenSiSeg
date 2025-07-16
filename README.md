@@ -30,3 +30,12 @@ conda activate densiseg
 # Install dependencies
 pip install -r requirements.txt
 
+## 🎯 Qualitative Results
+
+Below is a representative visualization of **DenSiSeg** on challenging smoke scenes:
+
+<p align="center">
+  <img src="imgs/results.png" width="700"/>
+</p>
+
+*For best view, open the image in full resolution.*
