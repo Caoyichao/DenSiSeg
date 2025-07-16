@@ -13,7 +13,6 @@ This repository contains the official PyTorch implementation of **DenSiSeg**, a 
 - 🌀 **Density-aware prediction** using a novel cosine-based estimation module.
 - 🧠 **Background-guided learning** with SAM-derived feature alignment.
 - 📈 **Soft contrastive learning** to improve intra-class separability.
-- 🎯 Achieves SOTA performance on **SYN70K**, **Smoke5K**, and **Rekon** datasets.
 
 ---
 
