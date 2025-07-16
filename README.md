@@ -29,8 +29,8 @@ conda activate densiseg
 
 # Install dependencies
 pip install -r requirements.txt
-```bash
 
+```
 
 ## 🎯 Qualitative Results
 
