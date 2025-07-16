@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Below is a representative visualization of **DenSiSeg** on challenging smoke scenes:
 
 <p align="center">
-  <img src="imgs/results.png" width="800"/>
+  <img src="imgs/results.png" width="1000"/>
 </p>
 
 *Results on SYN70K dataset. (a) Inputs. (b) Segmentation results of baseline model. (c) Output of our DenSiSeg. (d) Ground truth of smoke density.*
